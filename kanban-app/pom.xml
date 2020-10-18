@@ -8,11 +8,11 @@
 		<version>2.1.6.RELEASE</version>
 		<relativePath/>
 	</parent>
-	<groupId>com.wkrzywiec.medium</groupId>
-	<artifactId>kanban-app</artifactId>
+		<groupId>com.lylechristine.webapp</groupId>
+	<artifactId>kando</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>kanban-app</name>
-	<description>Backend app for Kanban app</description>
+	<name>Kando</name>
+	<description>Backend app for Kando app</description>
 
 	<properties>
 		<java.version>1.8</java.version>
