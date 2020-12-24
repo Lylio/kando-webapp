@@ -8,7 +8,6 @@
 ### Description
 Basic Kanban app as an example for demonstrating launching multi-container apps with the 
 `docker-composer up` command.<br>
-<br>Demo can be found at (coming soon).
 
 #### Docker Launch
 1. `docker-compose up`
