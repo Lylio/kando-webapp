@@ -20,8 +20,8 @@ Basic Kanban app as an example for demonstrating launching multi-container apps 
 4. `\list` list databases
 5. `\connect kanban` connect to kanban database
 6. `\dt` lists tables in kanban database
-7. `SELECT * FROM kanban` lists all the user-created kanbans
-8. `SELECT * FROM tasks` lists all user created-tasks across all kanbans
+7. `SELECT * FROM kanban;` lists all the user-created kanbans
+8. `SELECT * FROM task;` lists all user created-tasks across all kanbans
 9. `\quit` exit Postgres shell
 
 #### Postgres Database Interrogation (pgAdmin4)
